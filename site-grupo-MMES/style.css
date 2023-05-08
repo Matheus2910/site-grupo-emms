@@ -1,0 +1,22 @@
+:root{
+    --branco-principal: #FFFFFF;
+    --cinza-secundário: #2b2b2b;
+    --botão-azul: #0d5f5f;
+    --cor-de-fundo: #d60a99;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
+
+}
+
+* {
+    margin: 0%;
+    padding: 0%;
+}
+.Goku-black{
+    width: 1080px;
+    margin: flex;
+    align-items: center;
+}
